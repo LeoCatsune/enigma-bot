@@ -5,8 +5,8 @@
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-		"deploy:global": "node ./src/utils/deploy-global.js",
-		"deploy:test": "node ./src/utils/deploy-test.js"
+    "deploy:global": "node ./src/utils/deploy-global.js",
+    "deploy:test": "node ./src/utils/deploy-test.js"
   },
   "keywords": [],
   "author": "NullPointDev",
